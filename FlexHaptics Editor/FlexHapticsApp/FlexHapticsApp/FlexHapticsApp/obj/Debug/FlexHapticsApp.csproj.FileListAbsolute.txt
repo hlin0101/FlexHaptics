@@ -1,0 +1,6 @@
+C:\Users\ediga\Dropbox\CHI2022-FlexHaptics\Code\FlexHapticsApp\FlexHapticsApp\FlexHapticsApp\bin\FlexHapticsApp.dll
+C:\Users\ediga\Dropbox\CHI2022-FlexHaptics\Code\FlexHapticsApp\FlexHapticsApp\FlexHapticsApp\bin\FlexHapticsApp.pdb
+C:\Users\ediga\Dropbox\CHI2022-FlexHaptics\Code\FlexHapticsApp\FlexHapticsApp\FlexHapticsApp\obj\Debug\FlexHapticsApp.csproj.CoreCompileInputs.cache
+C:\Users\ediga\Dropbox\CHI2022-FlexHaptics\Code\FlexHapticsApp\FlexHapticsApp\FlexHapticsApp\obj\Debug\FlexHapticsApp.dll
+C:\Users\ediga\Dropbox\CHI2022-FlexHaptics\Code\FlexHapticsApp\FlexHapticsApp\FlexHapticsApp\obj\Debug\FlexHapticsApp.pdb
+C:\Users\ediga\Dropbox\CHI2022-FlexHaptics\Code\FlexHapticsApp\FlexHapticsApp\FlexHapticsApp\obj\Debug\FlexHapticsApp.csprojAssemblyReference.cache
